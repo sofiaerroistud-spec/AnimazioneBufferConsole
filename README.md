@@ -1,0 +1,2 @@
+# AnimazioneBufferConsole
+Esercitazione PCTO informatica.
